@@ -27,21 +27,6 @@
 <a href="https://git-scm.com/" style="display:inline-block; perspective: 1000px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="100" title="Git" style="animation: flip 1s infinite;">
 </a>
-<a href="https://sass-lang.com/" style="display:inline-block; perspective: 1000px;">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss" height="100" title="SCSS" style="animation: flip 1s infinite;">
-</a>
-<a href="https://reactnative.dev/" style="display:inline-block; perspective: 1000px;">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="reactnative" height="100" title="React Native" style="animation: flip 1s infinite;">
-</a>
-
-<style>
-    @keyframes flip {
-        0% { transform: perspective(1000px) rotateY(0deg); }
-        100% { transform: perspective(1000px) rotateY(360deg); }
-    }
-</style>
-
-
 
 
 
@@ -56,9 +41,8 @@
 ## 💻 Technologies I Work With:
 
 - *Languages:* HTML, CSS, JavaScript, Java
-- *Frameworks/Libraries:* ReactJS, React Native
+- *Frameworks/Libraries:* ReactJS
 - *Version Control:* Git
-- *Styling:* SCSS
 - *Others:* GitHub
 
 ## 🌱 Currently Learning:
